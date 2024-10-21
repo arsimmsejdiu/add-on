@@ -14,5 +14,5 @@ export default function Tab() {
       <Welcome showFunction={showFunction} /> 
     </div>
   );
-}
+} 
  
